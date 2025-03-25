@@ -1,0 +1,121 @@
+Date,Category,Amount,Description,Type
+2024-01-01,Groceries,1639.53,Miscellaneous expense,Expense
+2024-01-02,Freelancing,4990.44,Investment returns,Income
+2024-01-03,Utilities,1031.28,Car insurance,Expense
+2024-01-04,Salary,4792.05,Monthly salary,Income
+2024-01-05,Rental Income,4382.76,Monthly salary,Income
+2024-01-06,Investments,2854.08,Monthly salary,Income
+2024-01-07,Insurance,769.4,Bus fare,Expense
+2024-01-08,Entertainment,1001.52,Miscellaneous expense,Expense
+2024-01-09,Salary,2386.23,Freelance payment,Income
+2024-01-10,Rental Income,3253.26,Monthly salary,Income
+2024-01-11,Rent,1389.19,Miscellaneous expense,Expense
+2024-01-12,Freelancing,1280.44,Monthly salary,Income
+2024-01-13,Insurance,1894.66,Bus fare,Expense
+2024-01-14,Insurance,1450.78,Bus fare,Expense
+2024-01-15,Utilities,472.14,Dinner out,Expense
+2024-01-16,Freelancing,3892.25,Freelance payment,Income
+2024-01-17,Salary,1631.82,Monthly salary,Income
+2024-01-18,Rental Income,3388.62,Rental property income,Income
+2024-01-19,Healthcare,1264.53,Monthly rent,Expense
+2024-01-20,Rental Income,4184.64,Monthly salary,Income
+2024-01-21,Healthcare,911.93,Movie tickets,Expense
+2024-01-22,Rent,1373.55,Electricity bill,Expense
+2024-01-23,Transportation,850.09,Monthly rent,Expense
+2024-01-24,Rental Income,3708.48,Rental property income,Income
+2024-01-25,Utilities,1958.43,Bus fare,Expense
+2024-01-26,Rent,670.59,Monthly rent,Expense
+2024-01-27,Investments,3772.01,Freelance payment,Income
+2024-01-28,Groceries,1902.69,Movie tickets,Expense
+2024-01-29,Insurance,696.2,Movie tickets,Expense
+2024-01-30,Education,411.95,Car insurance,Expense
+2024-01-31,Investments,1866.44,Monthly salary,Income
+2024-02-01,Rental Income,4319.46,Freelance payment,Income
+2024-02-02,Utilities,1851.3,Car insurance,Expense
+2024-02-03,Freelancing,2339.91,Rental property income,Income
+2024-02-04,Freelancing,1844.09,Freelance payment,Income
+2024-02-05,Salary,1180.49,Investment returns,Income
+2024-02-06,Healthcare,1786.36,Bus fare,Expense
+2024-02-07,Dining,820.04,Movie tickets,Expense
+2024-02-08,Groceries,1311.6,Online course,Expense
+2024-02-09,Freelancing,4360.3,Monthly salary,Income
+2024-02-10,Entertainment,183.2,Movie tickets,Expense
+2024-02-11,Education,372.9,Bus fare,Expense
+2024-02-12,Utilities,1676.65,Electricity bill,Expense
+2024-02-13,Miscellaneous,1935.26,Dinner out,Expense
+2024-02-14,Rent,660.22,Weekly groceries,Expense
+2024-02-15,Freelancing,764.44,Rental property income,Income
+2024-02-16,Rental Income,2869.59,Freelance payment,Income
+2024-02-17,Freelancing,2582.75,Monthly salary,Income
+2024-02-18,Miscellaneous,346.36,Weekly groceries,Expense
+2024-02-19,Utilities,1574.19,Weekly groceries,Expense
+2024-02-20,Freelancing,4257.63,Freelance payment,Income
+2024-02-21,Investments,3512.75,Monthly salary,Income
+2024-02-22,Freelancing,572.02,Monthly salary,Income
+2024-02-23,Salary,3969.33,Rental property income,Income
+2024-02-24,Education,37.75,Electricity bill,Expense
+2024-02-25,Rental Income,1866.69,Investment returns,Income
+2024-02-26,Salary,2884.24,Rental property income,Income
+2024-02-27,Rental Income,3305.01,Monthly salary,Income
+2024-02-28,Education,1973.68,Dinner out,Expense
+2024-02-29,Transportation,1869.95,Online course,Expense
+2024-03-01,Freelancing,2394.15,Monthly salary,Income
+2024-03-02,Salary,4567.03,Rental property income,Income
+2024-03-03,Rental Income,2403.18,Rental property income,Income
+2024-03-04,Salary,3977.15,Freelance payment,Income
+2024-03-05,Dining,1066.87,Weekly groceries,Expense
+2024-03-06,Entertainment,1951.95,Monthly rent,Expense
+2024-03-07,Freelancing,769.42,Monthly salary,Income
+2024-03-08,Miscellaneous,433.49,Bus fare,Expense
+2024-03-09,Investments,4895.7,Rental property income,Income
+2024-03-10,Rental Income,3419.94,Freelance payment,Income
+2024-03-11,Rental Income,3437.89,Investment returns,Income
+2024-03-12,Rental Income,1481.69,Rental property income,Income
+2024-03-13,Salary,4018.39,Rental property income,Income
+2024-03-14,Dining,1152.0,Monthly rent,Expense
+2024-03-15,Investments,4089.19,Monthly salary,Income
+2024-03-16,Salary,4593.07,Investment returns,Income
+2024-03-17,Investments,2710.88,Investment returns,Income
+2024-03-18,Salary,2897.71,Monthly salary,Income
+2024-03-19,Rental Income,4999.3,Investment returns,Income
+2024-03-20,Entertainment,1553.93,Doctor's visit,Expense
+2024-03-21,Groceries,1692.47,Weekly groceries,Expense
+2024-03-22,Transportation,849.0,Miscellaneous expense,Expense
+2024-03-23,Investments,2573.19,Rental property income,Income
+2024-03-24,Utilities,1474.77,Doctor's visit,Expense
+2024-03-25,Entertainment,1013.77,Weekly groceries,Expense
+2024-03-26,Rental Income,1854.4,Monthly salary,Income
+2024-03-27,Investments,3245.71,Monthly salary,Income
+2024-03-28,Salary,3532.26,Monthly salary,Income
+2024-03-29,Entertainment,1704.73,Miscellaneous expense,Expense
+2024-03-30,Freelancing,1718.37,Investment returns,Income
+2024-03-31,Education,1375.24,Movie tickets,Expense
+2024-04-01,Freelancing,2317.87,Rental property income,Income
+2024-04-02,Investments,1352.89,Rental property income,Income
+2024-04-03,Salary,4441.49,Monthly salary,Income
+2024-04-04,Rental Income,500.91,Freelance payment,Income
+2024-04-05,Freelancing,3362.18,Monthly salary,Income
+2024-04-06,Freelancing,1337.48,Freelance payment,Income
+2024-04-07,Rent,182.65,Electricity bill,Expense
+2024-04-08,Rent,76.0,Movie tickets,Expense
+2024-04-09,Salary,1441.95,Investment returns,Income
+2024-04-10,Rental Income,2697.29,Rental property income,Income
+2024-04-11,Transportation,1742.1,Monthly rent,Expense
+2024-04-12,Salary,1400.0,Rental property income,Income
+2024-04-13,Healthcare,1615.97,Bus fare,Expense
+2024-04-14,Rent,444.72,Miscellaneous expense,Expense
+2024-04-15,Miscellaneous,1296.27,Electricity bill,Expense
+2024-04-16,Entertainment,794.72,Monthly rent,Expense
+2024-04-17,Insurance,1452.93,Online course,Expense
+2024-04-18,Freelancing,910.05,Rental property income,Income
+2024-04-19,Healthcare,1054.03,Movie tickets,Expense
+2024-04-20,Healthcare,75.72,Bus fare,Expense
+2024-04-21,Miscellaneous,1413.3,Movie tickets,Expense
+2024-04-22,Rental Income,3621.32,Monthly salary,Income
+2024-04-23,Freelancing,4409.83,Monthly salary,Income
+2024-04-24,Entertainment,1930.18,Monthly rent,Expense
+2024-04-25,Miscellaneous,633.99,Car insurance,Expense
+2024-04-26,Entertainment,1908.15,Dinner out,Expense
+2024-04-27,Salary,1080.78,Monthly salary,Income
+2024-04-28,Salary,3674.26,Rental property income,Income
+2024-04-29,Insurance,662.14,Miscellaneous expense,Expense
